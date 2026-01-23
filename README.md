@@ -1,6 +1,9 @@
 # Data for manuscript "Hybrid metal-semiconductor quantum dots in InAs as a platform for quantum simulation"
 
-This digital repository contains the data and analysis code used in the manuscript "Hybrid metal-semiconductor quantum dots in InAs as a platform for quantum simulation". This README contains very important information about the requirements for running the code and understanding information about the analysis.
+This digital repository contains the data and analysis code used in the manuscript "Hybrid metal-semiconductor quantum dots in InAs as a platform for quantum simulation". The publicly available version of the manuscript can be found online at https://arxiv.org/abs/2508.03928.
+
+
+This README contains very important information about the requirements for running the code and understanding information about the analysis.
 
 ## Installation
 
