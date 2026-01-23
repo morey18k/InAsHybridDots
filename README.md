@@ -10,7 +10,7 @@ Unfortunately, the analysis and figure Python notebooks are only configured to w
 
 First, navigate to the home directory of the digital repository by going to the download location and entering the directory.
 
-``bash
+```bash
 cd InAsHybridDots
 ```
 
